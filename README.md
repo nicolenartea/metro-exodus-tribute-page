@@ -25,3 +25,7 @@ Issues:
 
 
 Pull Requests are always welcome, so are constructive advise.
+
+Disclaimer:
+I do not own Metro Exodus, they are made by studio 4A Games and published by Deep Silver
+nor do I own Valve. 
