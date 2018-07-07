@@ -1,5 +1,5 @@
-#HTML EMAILS
-##Project name: Metro Exodus Promo Page
+# HTML EMAILS
+## Project name: Metro Exodus Promo Page
 
 link: https://nicolenartea.github.io/metro-exodus-tribute-page/
 
